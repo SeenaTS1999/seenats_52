@@ -1,5 +1,5 @@
 /**
- * The Calculator class provides methods to perform basic arithmetic operations.
+ * The Calculator class provides methods to perform basic arithmetic operations base on the class.
  */
 public class Calculator {
 
